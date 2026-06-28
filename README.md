@@ -79,6 +79,6 @@ The controller has 3 states:
 - Deploy on actual Basys3 FPGA board and test with LEDs
 
 ## About Me
-2nd Year ECE Student — VLSI Technology stream  
+2nd Year ECE Student - VLSI Technology stream  
 Gitam University  
 Currently doing internship in VLSI Domain       
